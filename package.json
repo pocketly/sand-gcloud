@@ -1,0 +1,28 @@
+{
+  "name": "sand-gcloud",
+  "version": "1.0.0",
+  "description": "Sand Google Cloud",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pocketly/sand-gcloud.git"
+  },
+  "keywords": [
+    "Sand",
+    "Google",
+    "Cloud"
+  ],
+  "author": "Kevin Smithson <ksmithson@sazze.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pocketly/sand-gcloud/issues"
+  },
+  "homepage": "https://github.com/pocketly/sand-gcloud",
+  "dependencies": {
+    "gcloud": "^0.14.0",
+    "sand-grain": "^1.0.0"
+  }
+}

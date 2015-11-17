@@ -1,6 +1,6 @@
 {
   "name": "sand-gcloud",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Sand Google Cloud",
   "main": "lib/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/pocketly/sand-gcloud",
   "dependencies": {
-    "gcloud": "^0.14.0",
+    "gcloud": "^0.24.1",
     "sand-grain": "^1.0.0"
   }
 }

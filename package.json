@@ -23,6 +23,7 @@
   "homepage": "https://github.com/pocketly/sand-gcloud",
   "dependencies": {
     "gcloud": "^0.24.1",
+    "lodash": "^4.0.0",
     "sand-grain": "^1.0.0"
   }
 }
